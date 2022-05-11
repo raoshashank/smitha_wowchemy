@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:smitharaoms@gmail.com'
+    link: mailto:smitharaoms@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/smitha-rao-a06282224/
