@@ -4,7 +4,7 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: ""
+external_link: "https://www.evueme.ai/"
 url_slides: ""
 title: "Automated Candidate Selection "
 tags:
