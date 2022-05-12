@@ -12,6 +12,8 @@ role: Professor of Computer Science
 organizations:
   - name: Vidyashilp University
     url: https://vidyashilp.edu.in/faculty/
+  - name: Contact: smitharaoms@gmail.com
+  - url: mailto:smitharaoms@gmail.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,7 +40,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  Contact: xxxxx
   - icon: envelope
     icon_pack: fas
     link: mailto:smitharaoms@gmail.com    
