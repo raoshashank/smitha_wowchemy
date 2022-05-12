@@ -11,7 +11,7 @@ role: Professor of Computer Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Vidyashilp University
-    url: https://vidyashilp.edu.in/
+    url: https://vidyashilp.edu.in/faculty/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -19,6 +19,8 @@ bio:
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
   - Data Science
 
 # Education to show in About widget
@@ -26,13 +28,10 @@ education:
   courses:
   - course: Doctor of Philosophy (Ph.D.)
     institution: Bharati Vidyapeeth University, Pune, India 
-    year: 2012
   - course: Master of Computer Application (M.C.A)
     institution: Osmania University, Hyderabad, India
-    year: 1996
   - course: Bachelor of Science (BSc.)
     institution: Osmania University, Hyderabad, India
-    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,7 +56,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'smitharaoms@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
