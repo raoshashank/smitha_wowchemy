@@ -12,7 +12,7 @@ role: Professor of Computer Science
 organizations:
   - name: Vidyashilp University
     url: https://vidyashilp.edu.in/faculty/
-  - name: Contact: smitharaoms@gmail.com
+  - name: smitharaoms@gmail.com
   - url: mailto:smitharaoms@gmail.com
 
 # Short bio (displayed in user profile at end of posts)
