@@ -39,9 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:smitharaoms@gmail.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/smitha-rao-a06282224/
@@ -63,7 +60,7 @@ email: ''
 highlight_name: true
 ---
 
-Dr.Smitha Rao is an academician with 26 years of experience.
+[Dr. Smitha Rao](mailto:smitharaoms@gmail.com) is an academician with 26 years of experience.
 She is adept in curriculum development, classroom instruction and research activities. 
 She is a keen believer in interdisciplinary research and has been performing research in the domain of Data Science for the past ten years, working with nascent technologies in AI like Machine Learning, Deep Learning and, Natural Language Processing. 
 
