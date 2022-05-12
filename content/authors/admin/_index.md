@@ -13,7 +13,9 @@ organizations:
   - name: Vidyashilp University
     url: https://vidyashilp.edu.in/faculty/
   - name: smitharaoms@gmail.com
-  - url: mailto:smitharaoms@gmail.com
+    url: mailto:smitharaoms@gmail.com
+  - name: smitha.rao@vidyashilp.edu.in
+    url: mailto:smitha.rao@vidyashilp.edu.in
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
