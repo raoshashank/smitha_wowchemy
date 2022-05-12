@@ -62,4 +62,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an academician with 26 years of experience, adept in curriculum development, classroom instruction and have been actively performing research in the areas of AI, ML and Data Science for the past ten years.
+I am an academician with 26 years of experience, adept in curriculum development, classroom instruction and have been actively performing research in the areas of Deep Learning and Natural Language Processing for the past ten years.
