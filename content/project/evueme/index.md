@@ -15,4 +15,7 @@ image:
   preview_only: false
 url_code: ""
 ---
-Evueme Description
+Collaborating with Evue Technologies to build efficient ML models to automate their online
+platform, starting with analyzing video interviews of candidates and auto- rate them on
+employable skills. The projects therein involve interdisciplinary research between the areas of
+Data Science, Psychology, Language and Computer Science.
