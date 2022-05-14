@@ -15,4 +15,8 @@ image:
   preview_only: false
 url_code: ""
 ---
-KaizenVoiz Description
+Working with Kaizen Secure Voiz on research projects to analyze, design and develop
+various voice-based solutions using Voice Analytics. Deep Learning and Natural Language
+Processing (NLP) add new layers to the voice analytics process, producing significant
+insights and scalable results. These projects cover research on various areas of Spoken
+Language Understanding (SLU).
