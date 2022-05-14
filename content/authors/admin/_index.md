@@ -65,4 +65,12 @@ email: 'smitharaoms@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an academician with 26 years of experience, adept in curriculum development, classroom instruction and have been actively performing research in the areas of Deep Learning and Natural Language Processing for the past ten years.
+Hi, I’m Smitha
+
+I am a Professor in the School of Computational and Data Sciences at Vidyashilp University in
+Bangalore. I work in the area of Machine Learning, primarily in Deep Learning and Natural Language
+Processing. I have done my PhD in Intelligent Agents. I believe in interdisciplinary research. Trying to
+understand the application of data science to various domains like psychology, economics including
+fine arts. I am currently working in collaboration with couple of start-ups in researching and
+providing analytic solutions using Multimodal Learning, Voice Analytics and Spoken Language
+Understanding (SLU).
